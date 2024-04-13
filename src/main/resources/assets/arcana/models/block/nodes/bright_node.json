@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"1": "arcana:nodes/bright_node",
+		"particle": "arcana:nodes/bright_node"
+	}
+}
